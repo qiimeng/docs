@@ -39,6 +39,7 @@ const coreMembers: TeamMember[] = [
     name: '小满1221',
     title: '启梦主题核心开发者 & 网站运维工程师',
     org: '萌尚网络',
+    orgLink: 'https://bbs.ce-studio.cn/',
     desc: '负责主题架构、功能测试、性能优化与官网运行维护',
     links: [
       { icon: 'github', link: 'https://github.com/xiaoman1221' },
