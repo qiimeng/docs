@@ -12,12 +12,12 @@
 ## 加入内测群
 进入我们的内测用户群了解更多: [1018886619](https://qm.qq.com/q/yuk1A0RncA)
 
-![qq_group.png](img/img-1.jpg)
+![qq_group.png](img/index/img-1.jpg)
 
 ## 主题演示
 
-![index.png](img/img-2.png)
-![posts.png](img/img-3.png)
-![posts_content.png](img/img-4.png)
-![posts_push.png](img/img-5.png)
+![index.png](img/index/img-2.png)
+![posts.png](img/index/img-3.png)
+![posts_content.png](img/index/img-4.png)
+![posts_push.png](img/index/img-5.png)
 
