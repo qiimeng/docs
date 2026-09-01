@@ -149,7 +149,7 @@ export default defineConfig({
     },// 闭合 sidebar 对象（注意这里有逗号，因为后面还有 socialLinks）
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/qiimeng/docs' }
     ]
   }
 })

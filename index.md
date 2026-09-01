@@ -18,12 +18,12 @@ hero:
       link: /docs/Typecho/index.md
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 特性1
+    details: 牛逼
+  - title: 特性2
+    details: 真的很牛逼
+  - title: 特性3
+    details: 不信你试试
 ---
 
 
