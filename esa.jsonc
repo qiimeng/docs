@@ -1,0 +1,11 @@
+{
+  // 构建与部署配置（阿里云 ESA Pages）
+  "installCommand": "npm install",
+  "buildCommand": "npm run docs:build",
+  "assets": {
+    // VitePress 默认构建输出目录
+    "directory": "./.vitepress/dist",
+    // 静态站点生成类型：未匹配的路径返回 404 页面
+    "notFoundStrategy": "404Page"
+  }
+}
