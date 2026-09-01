@@ -6,9 +6,6 @@ hero:
   name: "启梦主题官方文档"
   text: "简约优雅 · 高度自定义"
   tagline: 为博客、自媒体与资讯类网站提供快速上线的 WordPress / Typecho 主题
-  image:
-    src: /qimeng.png
-    alt: 启梦主题
   actions:
     - theme: brand
       text: WordPress教程
@@ -25,4 +22,3 @@ features:
   - title: 简约优雅 · 快速上线
     details: 设计简约优雅、高度自定义，提供试用版与付费版，支持 WordPress 与 Typecho，让网站快速上线运营。
 ---
-

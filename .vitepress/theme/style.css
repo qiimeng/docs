@@ -8,3 +8,23 @@
   font-size: 0.9em !important;
   color: var(--vp-c-text-3) !important;
 }
+
+/* 首页 hero：去掉 Logo 后三行文字居中 */
+.VPHero:not(.has-image) .container,
+.VPHero:not(.has-image) .main {
+  text-align: center;
+}
+
+.VPHero:not(.has-image) .main {
+  width: 100%;
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.VPHero:not(.has-image) .heading {
+  align-items: center;
+}
+
+.VPHero:not(.has-image) .actions {
+  justify-content: center;
+}
