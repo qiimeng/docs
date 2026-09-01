@@ -1,0 +1,10 @@
+.VPMember .VPMemberTitle {
+  display: block !important;
+  margin-bottom: 2px !important;
+}
+
+.VPMember .VPMemberOrg {
+  display: block !important;
+  font-size: 0.9em !important;
+  color: var(--vp-c-text-3) !important;
+}

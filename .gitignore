@@ -1,0 +1,51 @@
+@'
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependency / build
+node_modules/
+vendor/
+dist/
+build/
+coverage/
+target/
+out/
+bin/
+obj/
+*.class
+*.jar
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Secrets / environment
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.p7b
+*.sqlite
+*.db
+*.bak
+
+# Temporary
+tmp/
+temp/
+.cache/
