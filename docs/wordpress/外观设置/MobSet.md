@@ -2,14 +2,14 @@
 作者：[阿城](https://www.hidesg.ink/)
 
 ## 底部导航栏
-![mob-20260901001754.png](img/MobSet/mob-20260901001754.png)
+<img src="./img/MobSet/mob-20260901001754.png" alt="mob-20260901001754.png" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
 
 **启用底部导航栏**
 
 开启后，网站（尤其是移动端）会在页面底部显示固定的导航栏，包含首页、分类、我的、发布等核心入口；关闭后，底部导航栏将隐藏，用户需要通过其他方式（如侧边栏、顶部菜单）访问这些功能。
 
 ### 底部导航项
-![mob-20260901001954.png](img/MobSet/mob-20260901001954.png)
+<img src="./img/MobSet/mob-20260901001954.png" alt="mob-20260901001954.png" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
 
 **图标来源**
 
@@ -38,7 +38,7 @@
 ## 固定导航项设置
 
 ### "首页"按钮设置
-![mob-20260901002353.png](img/MobSet/mob-20260901002353.png)
+<img src="./img/MobSet/mob-20260901002353.png" alt="mob-20260901002353.png" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
 
 **图标来源**
 
@@ -54,7 +54,7 @@
 导航项显示的文字标签，用于向用户说明该入口的功能。
 
 ### "我的"按钮设置
-![mob-20260901002832.png](img/MobSet/mob-20260901002832.png)
+<img src="./img/MobSet/mob-20260901002832.png" alt="mob-20260901002832.png" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
 
 **图标来源**
 

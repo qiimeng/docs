@@ -2,7 +2,7 @@
 作者：[阿城](https://www.hidesg.ink/)
 
 ## 顶部导航
-![basap-20260831213346.png](img/Basap/basap-20260831213346.png)
+<img src="./img/Basap/basap-20260831213346.png" alt="basap-20260831213346.png" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
 **导航菜单对齐**
 
 选择菜单在可用导航区域内靠左、居中或靠右排列。
@@ -12,7 +12,7 @@
 设置页面位于顶部、尚未滚动时的主导航背景。
 
 ## 灵动岛设置
-![basap-20260831214219.png](img/Basap/basap-20260831214219.png)
+<img src="./img/Basap/basap-20260831214219.png" alt="basap-20260831214219.png" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
 **启用灵动岛**
 
 启用后，会在网站前端显示一个灵动岛小组件，展示个人中心信息。
@@ -22,8 +22,8 @@
 刘海融合：顶部左右内拐圆角与导航栏衔接；胶囊体：保留当前四角圆润造型。
 
 ## 首页设置
-![basap-20260831215037.png](img/Basap/basap-20260831215037.png)
-![basap-20260831215102.png](img/Basap/basap-20260831215102.png)
+<img src="./img/Basap/basap-20260831215037.png" alt="basap-20260831215037.png" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
+<img src="./img/Basap/basap-20260831215102.png" alt="basap-20260831215102.png" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
 **主导航透明度**
 
 设置毛玻璃与滚动后主导航背景的透明度（0 全透明，1 不透明）。

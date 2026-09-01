@@ -18,31 +18,31 @@
 
 多语言翻译是一个网站国际化的一部分，你可以在外观设置>多语言翻译下开启
 
-![image-20260825212047809](img/Language/image-20260825212047809.png)
+<img src="./img/Language/image-20260825212047809.png" alt="image-20260825212047809" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
 
 下方可以设置网站原始语言（用户刚进入网站显示的语言）和可切换的语言
 
-![image-20260825212147599](img/Language/image-20260825212147599.png)
+<img src="./img/Language/image-20260825212147599.png" alt="image-20260825212147599" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
 
 勾选了可切换的语言后网站的上方菜单栏的**选择语言**小菜单中会显示，选择后网站会自动翻译到对应语言
 
-![image-20260825212235246](img/Language/image-20260825212235246.png)
+<img src="./img/Language/image-20260825212235246.png" alt="image-20260825212235246" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
 
-![image-20260825212351512](img/Language/image-20260825212351512.png)
+<img src="./img/Language/image-20260825212351512.png" alt="image-20260825212351512" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
 
 开启自动识别访客语言后会根据访客的环境自动切换选择的语言
 
-![image-20260825212801541](img/Language/image-20260825212801541.png)
+<img src="./img/Language/image-20260825212801541.png" alt="image-20260825212801541" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
 
 翻译动态加载内容，开启后自动翻译 AJAX 加载、弹窗和分页后新增的内容。
 
 开启后：
 
-![image-20260825213104725](img/Language/image-20260825213104725.png)
+<img src="./img/Language/image-20260825213104725.png" alt="image-20260825213104725" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
 
 没开启：
-![image-20260825213132218](img/Language/image-20260825213132218.png)
+<img src="./img/Language/image-20260825213132218.png" alt="image-20260825213132218" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
 
 不翻译词汇的功能，不需要翻译的词汇每一行存在一个，不需要标点符号断行，通常用于网站名称、LOGO等。
 
-![image-20260825213231236](img/Language/image-20260825213231236.png)
+<img src="./img/Language/image-20260825213231236.png" alt="image-20260825213231236" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />

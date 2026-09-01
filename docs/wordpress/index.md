@@ -12,12 +12,12 @@
 ## 加入内测群
 进入我们的内测用户群了解更多: [1018886619](https://qm.qq.com/q/yuk1A0RncA)
 
-![qq_group.png](img/index/img-1.jpg)
+<img src="./img/index/img-1.jpg" alt="qq_group.png" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
 
 ## 主题演示
 
-![index.png](img/index/img-2.png)
-![posts.png](img/index/img-3.png)
-![posts_content.png](img/index/img-4.png)
-![posts_push.png](img/index/img-5.png)
+<img src="./img/index/img-2.png" alt="index.png" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
+<img src="./img/index/img-3.png" alt="posts.png" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
+<img src="./img/index/img-4.png" alt="posts_content.png" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
+<img src="./img/index/img-5.png" alt="posts_push.png" style="display:block;margin:16px auto;max-width:100%;height:auto;border-radius:8px;" loading="lazy" />
 
