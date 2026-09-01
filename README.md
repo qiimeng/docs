@@ -63,7 +63,7 @@ npm run docs:build
 npm run docs:preview
 ```
 
-开发服务器默认运行在 <http://localhost:5173>，预览服务器默认运行在 <http://localhost:4173>。
+开发服务器默认运行在 `http://localhost:5173`，预览服务器默认运行在 `http://localhost:4173`。
 
 ## ☁️ 部署
 
